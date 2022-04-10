@@ -179,7 +179,7 @@
     </div> 
     <form class="w-50 m-auto" action="userInfo.php" method="post">
     <div class="mb-3">
-    <label for="exampleInputEmail1" class="form-label">User</label>
+    <label for="exampleInputEmail1" class="form-label">User Name</label>
     <input type="text" class="form-control" id="exampleInputEmail1" name="user" aria-describedby="emailHelp">
   </div>
 
