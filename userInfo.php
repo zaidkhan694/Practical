@@ -6,7 +6,7 @@ if($con)
 }
 else
 {
-    echo("No Connection");
+    echo("No Connection please Connect");
 }
 mysqli_select_db($con , 'practicaluser');
 
