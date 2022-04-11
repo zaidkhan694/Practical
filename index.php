@@ -24,13 +24,13 @@
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="#">Services</a>
+          <a class="nav-link active" href="services.php">Services</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="#">About</a>
+          <a class="nav-link active" href="about.php">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="#">Contact</a>
+          <a class="nav-link active" href="contact.php">Contact</a>
         </li>
       </ul>
       <form class="d-flex">

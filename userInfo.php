@@ -19,5 +19,5 @@ $query = "insert into userinfodata (user , email , mobile , comment) values('$us
 
 mysqli_query($con , $query);
 
-header('location : index.php');
+header('location:index.php');
 ?>
